@@ -1,5 +1,5 @@
 
-# Lab 4 Task Manager
+# Lab 5 Task Manager PWA
 
 The same task manager used in Lab 3 Part 1, working offline, and using cache memory to store basic credentials to access to services offer by this app.
 
@@ -24,51 +24,23 @@ Credentials
 	password: 654321
 ```
 
+NOTE: You should refresh the page if install button is not aviable. On android devices you should use "Desktop view" to install the app on your device.
 
 You can find the deploy on heroku in the next link: 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://task-manager-ieti.herokuapp.com)
-
-
-You cand find the deploy on Firebase in the next link:
-
-[https://ieti-laboratorio-4.web.app/](https://ieti-laboratorio-4.web.app/)
+[https://taks-planner-app-dab75.web.app/](https://taks-planner-app-dab75.web.app/)
 
 
 # Images
 
 
-## New Task
+## Lighthouse stats
 
-![](resources/new1.PNG)
+![](resources/5.7.PNG)
 
-![](resources/new2.PNG)
+## Install option enabled
 
-## Updating information in navigation drawer view 
-
-![](resources/toggle1.PNG)
-
-![](resources/toggle2.PNG)
-
-## Filter information
-
-You can filter by:
-
-* Date
-* Responsible
-* Status
-
-**All combinations are allowed.**
-To show all tasks again you must click "Clear All" button and after that click the "Apply" button.
-
-![](resources/filter1.PNG)
-
-![](resources/filter2.PNG)
-
-
-## Working on firebase
-
-![](resources/online_firebase.PNG)
+![](resources/5.8.PNG)
 
 
 
