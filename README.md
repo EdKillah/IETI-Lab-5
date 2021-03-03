@@ -26,7 +26,7 @@ Credentials
 
 NOTE: You should refresh the page if install button is not aviable. On android devices you should use "Desktop view" to install the app on your device.
 
-You can find the deploy on heroku in the next link: 
+You can find the deploy on firebase in the next link: 
 
 [https://taks-planner-app-dab75.web.app/](https://taks-planner-app-dab75.web.app/)
 
