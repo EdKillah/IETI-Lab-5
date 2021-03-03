@@ -40,7 +40,7 @@ You can find the deploy on heroku in the next link:
 
 ## Install option enabled
 
-![](resources/5.8.PNG)
+![](resources/5.8.png)
 
 
 
